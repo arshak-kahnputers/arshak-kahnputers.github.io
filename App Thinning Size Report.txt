@@ -1,101 +1,101 @@
 
 App Thinning Size Report for All Variants of Profit Scan
 
-Variant: Profit Scan-395C1736-1BD0-4522-A48C-378880553D6B.ipa
-Supported variant descriptors: [device: iPhone11,8, os-version: 12.0]
-App + On Demand Resources size: 15.4 MB compressed, 32.2 MB uncompressed
-App size: 15.4 MB compressed, 32.2 MB uncompressed
-On Demand Resources size: Zero KB compressed, Zero KB uncompressed
-
-
-Variant: Profit Scan-4E0D86F3-6024-4F00-8CB0-2EBF422DCDD1.ipa
-Supported variant descriptors: [device: iPad4,3, os-version: 12.0], [device: iPad7,1, os-version: 12.0], [device: iPad5,4, os-version: 12.0], [device: iPad8,1, os-version: 12.0], [device: iPad8,3, os-version: 12.0], [device: iPad6,3, os-version: 12.0], [device: iPad5,1, os-version: 12.0], [device: iPad4,7, os-version: 12.0], [device: iPad4,5, os-version: 12.0], [device: iPad5,2, os-version: 12.0], [device: iPad6,8, os-version: 12.0], [device: iPad7,4, os-version: 12.0], [device: iPad7,5, os-version: 12.0], [device: iPad4,6, os-version: 12.0], [device: iPad7,3, os-version: 12.0], [device: iPad8,5, os-version: 12.0], [device: iPad4,4, os-version: 12.0], [device: iPad8,4, os-version: 12.0], [device: iPad6,4, os-version: 12.0], [device: iPad6,7, os-version: 12.0], [device: iPad6,12, os-version: 12.0], [device: iPad6,11, os-version: 12.0], [device: iPad7,6, os-version: 12.0], [device: iPad8,6, os-version: 12.0], [device: iPad7,2, os-version: 12.0], [device: iPad4,2, os-version: 12.0], [device: iPad4,8, os-version: 12.0], [device: iPad8,7, os-version: 12.0], [device: iPad5,3, os-version: 12.0], [device: iPad8,2, os-version: 12.0], [device: iPad8,8, os-version: 12.0], [device: iPad4,1, os-version: 12.0], and [device: iPad4,9, os-version: 12.0]
-App + On Demand Resources size: 15.4 MB compressed, 32.2 MB uncompressed
-App size: 15.4 MB compressed, 32.2 MB uncompressed
-On Demand Resources size: Zero KB compressed, Zero KB uncompressed
-
-
-Variant: Profit Scan-56C82EA6-4C92-467D-B167-F42BF67BCF3F.ipa
-Supported variant descriptors: [device: iPad3,2, os-version: 9.0], [device: iPad3,1, os-version: 9.0], [device: iPad3,3, os-version: 9.0], [device: iPad3,4, os-version: 9.0], [device: iPad3,5, os-version: 9.0], and [device: iPad3,6, os-version: 9.0]
-App + On Demand Resources size: 17.5 MB compressed, 31.1 MB uncompressed
-App size: 17.5 MB compressed, 31.1 MB uncompressed
-On Demand Resources size: Zero KB compressed, Zero KB uncompressed
-
-
-Variant: Profit Scan-A075D91A-985A-4F2D-A400-0406F3B643A9.ipa
-Supported variant descriptors: [device: iPad5,2, os-version: 9.0], [device: iPad4,2, os-version: 9.0], [device: iPad7,1, os-version: 11.0], [device: iPad4,7, os-version: 9.0], [device: iPad4,5, os-version: 9.0], [device: iPad6,11, os-version: 10.0], [device: iPad6,12, os-version: 10.0], [device: iPad7,3, os-version: 11.0], [device: iPad6,3, os-version: 9.0], [device: iPad4,4, os-version: 9.0], [device: iPad4,6, os-version: 9.0], [device: iPad7,4, os-version: 11.0], [device: iPad7,2, os-version: 10.0], [device: iPad6,11, os-version: 11.0], [device: iPad7,6, os-version: 11.0], [device: iPad4,8, os-version: 9.0], [device: iPad7,2, os-version: 11.0], [device: iPad7,5, os-version: 11.0], [device: iPad6,4, os-version: 9.0], [device: iPad5,4, os-version: 9.0], [device: iPad6,8, os-version: 9.0], [device: iPad4,9, os-version: 9.0], [device: iPad7,1, os-version: 10.0], [device: iPad4,1, os-version: 9.0], [device: iPad6,7, os-version: 9.0], [device: iPad5,1, os-version: 9.0], [device: iPad5,3, os-version: 9.0], [device: iPad6,12, os-version: 11.0], [device: iPad4,3, os-version: 9.0], [device: iPad7,3, os-version: 10.0], and [device: iPad7,4, os-version: 10.0]
-App + On Demand Resources size: 16.5 MB compressed, 33.4 MB uncompressed
-App size: 16.5 MB compressed, 33.4 MB uncompressed
-On Demand Resources size: Zero KB compressed, Zero KB uncompressed
-
-
-Variant: Profit Scan-A86F2AB5-D3D4-402E-8E1E-4C9FBE227ED7.ipa
-Supported variant descriptors: [device: iPhone11,6, os-version: 12.0], [device: iPhone7,1, os-version: 12.0], [device: iPhone10,5, os-version: 12.0], [device: iPhone11,2, os-version: 12.0], [device: iPhone11,4, os-version: 12.0], [device: iPhone10,3, os-version: 12.0], [device: iPhone10,2, os-version: 12.0], [device: iPhone8,2, os-version: 12.0], [device: iPhone10,6, os-version: 12.0], [device: iPhone9,2, os-version: 12.0], and [device: iPhone9,4, os-version: 12.0]
-App + On Demand Resources size: 17.9 MB compressed, 34.8 MB uncompressed
-App size: 17.9 MB compressed, 34.8 MB uncompressed
-On Demand Resources size: Zero KB compressed, Zero KB uncompressed
-
-
-Variant: Profit Scan-B3B647D9-0DA9-417D-86A4-4B842C96F399.ipa
-Supported variant descriptors: [device: iPhone5,3, os-version: 9.0], [device: iPhone5,4, os-version: 9.0], [device: iPhone4,1, os-version: 9.0], [device: iPhone5,2, os-version: 9.0], [device: iPod5,1, os-version: 9.0], and [device: iPhone5,1, os-version: 9.0]
-App + On Demand Resources size: 17.5 MB compressed, 31.1 MB uncompressed
-App size: 17.5 MB compressed, 31.1 MB uncompressed
-On Demand Resources size: Zero KB compressed, Zero KB uncompressed
-
-
-Variant: Profit Scan-B59AFD4C-5B1D-4ED4-B1D2-B73701FA10FF.ipa
-Supported variant descriptors: [device: iPhone10,6, os-version: 11.0], [device: iPhone9,4, os-version: 10.0], [device: iPhone10,2, os-version: 11.0], [device: iPhone10,5, os-version: 11.0], [device: iPhone9,2, os-version: 11.0], [device: iPhone10,3, os-version: 11.0], [device: iPhone7,1, os-version: 9.0], [device: iPhone9,4, os-version: 11.0], [device: iPhone8,2, os-version: 9.0], and [device: iPhone9,2, os-version: 10.0]
-App + On Demand Resources size: 19.3 MB compressed, 36.2 MB uncompressed
-App size: 19.3 MB compressed, 36.2 MB uncompressed
-On Demand Resources size: Zero KB compressed, Zero KB uncompressed
-
-
-Variant: Profit Scan-B739EC84-950C-4BDC-8C12-C7DD2DF3E440.ipa
-Supported variant descriptors: [device: iPhone6,2, os-version: 9.0], [device: iPhone9,1, os-version: 10.0], [device: iPhone7,2, os-version: 9.0], [device: iPhone8,4, os-version: 9.0], [device: iPhone8,1, os-version: 9.0], [device: iPhone6,1, os-version: 9.0], [device: iPhone9,3, os-version: 11.0], [device: iPhone9,1, os-version: 11.0], [device: iPod7,1, os-version: 9.0], [device: iPhone10,4, os-version: 11.0], [device: iPhone9,3, os-version: 10.0], and [device: iPhone10,1, os-version: 11.0]
-App + On Demand Resources size: 16.5 MB compressed, 33.3 MB uncompressed
-App size: 16.5 MB compressed, 33.3 MB uncompressed
-On Demand Resources size: Zero KB compressed, Zero KB uncompressed
-
-
-Variant: Profit Scan-BCD0F3E8-DD58-4ABE-B58F-F2DCA3AC71B5.ipa
-Supported variant descriptors: [device: iPhone10,2, os-version: 12.2], [device: iPhone11,2, os-version: 12.2], [device: iPhone10,3, os-version: 12.2], [device: iPhone10,5, os-version: 12.2], [device: iPhone8,2, os-version: 12.2], [device: iPhone7,1, os-version: 12.2], [device: iPhone10,6, os-version: 12.2], [device: iPhone11,4, os-version: 12.2], [device: iPhone9,2, os-version: 12.2], [device: iPhone11,6, os-version: 12.2], and [device: iPhone9,4, os-version: 12.2]
-App + On Demand Resources size: 15.4 MB compressed, 27.2 MB uncompressed
-App size: 15.4 MB compressed, 27.2 MB uncompressed
-On Demand Resources size: Zero KB compressed, Zero KB uncompressed
-
-
-Variant: Profit Scan-C006497E-A020-42F8-A92F-8D3A45525CBA.ipa
-Supported variant descriptors: [device: iPhone6,2, os-version: 12.0], [device: iPhone8,4, os-version: 12.0], [device: iPhone9,3, os-version: 12.0], [device: iPhone7,2, os-version: 12.0], [device: iPhone9,1, os-version: 12.0], [device: iPhone10,1, os-version: 12.0], [device: iPhone8,1, os-version: 12.0], [device: iPhone10,4, os-version: 12.0], [device: iPhone6,1, os-version: 12.0], and [device: iPod7,1, os-version: 12.0]
-App + On Demand Resources size: 15.4 MB compressed, 32.2 MB uncompressed
-App size: 15.4 MB compressed, 32.2 MB uncompressed
-On Demand Resources size: Zero KB compressed, Zero KB uncompressed
-
-
-Variant: Profit Scan-DA2A86F1-DB5E-4FC4-9F51-1B95DB0E6686.ipa
-Supported variant descriptors: [device: iPad6,12, os-version: 12.2], [device: iPad7,2, os-version: 12.2], [device: iPad6,7, os-version: 12.2], [device: iPad4,9, os-version: 12.2], [device: iPad4,1, os-version: 12.2], [device: iPad4,4, os-version: 12.2], [device: iPad8,6, os-version: 12.2], [device: iPad7,1, os-version: 12.2], [device: iPad6,11, os-version: 12.2], [device: iPad7,3, os-version: 12.2], [device: iPad4,7, os-version: 12.2], [device: iPad11,4, os-version: 12.2], [device: iPad4,2, os-version: 12.2], [device: iPad5,1, os-version: 12.2], [device: iPad7,5, os-version: 12.2], [device: iPad7,6, os-version: 12.2], [device: iPad8,3, os-version: 12.2], [device: iPad11,1, os-version: 12.2], [device: iPad5,4, os-version: 12.2], [device: iPad7,4, os-version: 12.2], [device: iPad8,4, os-version: 12.2], [device: iPad6,4, os-version: 12.2], [device: iPad5,2, os-version: 12.2], [device: iPad8,1, os-version: 12.2], [device: iPad8,2, os-version: 12.2], [device: iPad8,8, os-version: 12.2], [device: iPad4,3, os-version: 12.2], [device: iPad11,2, os-version: 12.2], [device: iPad4,6, os-version: 12.2], [device: iPad6,8, os-version: 12.2], [device: iPad4,5, os-version: 12.2], [device: iPad8,7, os-version: 12.2], [device: iPad11,3, os-version: 12.2], [device: iPad6,3, os-version: 12.2], [device: iPad4,8, os-version: 12.2], [device: iPad8,5, os-version: 12.2], and [device: iPad5,3, os-version: 12.2]
+Variant: Profit Scan-0BC8E29A-79CF-4582-8A6A-07279281D710.ipa
+Supported variant descriptors: [device: iPad8,7, os-version: 12.2], [device: iPad4,6, os-version: 12.2], [device: iPad7,5, os-version: 12.2], [device: iPad7,6, os-version: 12.2], [device: iPad7,1, os-version: 12.2], [device: iPad11,1, os-version: 12.2], [device: iPad8,1, os-version: 12.2], [device: iPad6,7, os-version: 12.2], [device: iPad4,4, os-version: 12.2], [device: iPad5,1, os-version: 12.2], [device: iPad6,11, os-version: 12.2], [device: iPad4,2, os-version: 12.2], [device: iPad4,5, os-version: 12.2], [device: iPad8,4, os-version: 12.2], [device: iPad4,8, os-version: 12.2], [device: iPad8,3, os-version: 12.2], [device: iPad6,3, os-version: 12.2], [device: iPad6,4, os-version: 12.2], [device: iPad5,2, os-version: 12.2], [device: iPad6,12, os-version: 12.2], [device: iPad8,5, os-version: 12.2], [device: iPad7,3, os-version: 12.2], [device: iPad11,3, os-version: 12.2], [device: iPad7,4, os-version: 12.2], [device: iPad8,6, os-version: 12.2], [device: iPad4,1, os-version: 12.2], [device: iPad4,9, os-version: 12.2], [device: iPad5,3, os-version: 12.2], [device: iPad8,8, os-version: 12.2], [device: iPad4,3, os-version: 12.2], [device: iPad4,7, os-version: 12.2], [device: iPad6,8, os-version: 12.2], [device: iPad11,4, os-version: 12.2], [device: iPad5,4, os-version: 12.2], [device: iPad8,2, os-version: 12.2], [device: iPad7,2, os-version: 12.2], and [device: iPad11,2, os-version: 12.2]
 App + On Demand Resources size: 12.9 MB compressed, 24.6 MB uncompressed
 App size: 12.9 MB compressed, 24.6 MB uncompressed
 On Demand Resources size: Zero KB compressed, Zero KB uncompressed
 
 
-Variant: Profit Scan-DFE9922A-3662-4C66-BD96-EA8A223925E3.ipa
+Variant: Profit Scan-0FB5C308-000F-4129-95C9-E187874F1B1E.ipa
+Supported variant descriptors: [device: iPhone8,4, os-version: 12.2], [device: iPhone10,4, os-version: 12.2], [device: iPhone9,3, os-version: 12.2], [device: iPhone8,1, os-version: 12.2], [device: iPod9,1, os-version: 12.2], [device: iPhone6,1, os-version: 12.2], [device: iPhone9,1, os-version: 12.2], [device: iPhone6,2, os-version: 12.2], [device: iPod7,1, os-version: 12.2], [device: iPhone7,2, os-version: 12.2], and [device: iPhone10,1, os-version: 12.2]
+App + On Demand Resources size: 12.9 MB compressed, 24.6 MB uncompressed
+App size: 12.9 MB compressed, 24.6 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Profit Scan-459FD5AB-DBF8-453C-AECB-8021B03A6D8E.ipa
+Supported variant descriptors: [device: iPad4,6, os-version: 9.0], [device: iPad6,3, os-version: 9.0], [device: iPad6,11, os-version: 11.0], [device: iPad4,5, os-version: 9.0], [device: iPad7,1, os-version: 10.0], [device: iPad7,3, os-version: 11.0], [device: iPad4,8, os-version: 9.0], [device: iPad7,6, os-version: 11.0], [device: iPad6,11, os-version: 10.0], [device: iPad4,4, os-version: 9.0], [device: iPad7,4, os-version: 11.0], [device: iPad4,3, os-version: 9.0], [device: iPad7,2, os-version: 10.0], [device: iPad7,4, os-version: 10.0], [device: iPad7,2, os-version: 11.0], [device: iPad6,12, os-version: 10.0], [device: iPad5,1, os-version: 9.0], [device: iPad4,2, os-version: 9.0], [device: iPad6,8, os-version: 9.0], [device: iPad4,9, os-version: 9.0], [device: iPad6,4, os-version: 9.0], [device: iPad6,12, os-version: 11.0], [device: iPad4,7, os-version: 9.0], [device: iPad6,7, os-version: 9.0], [device: iPad4,1, os-version: 9.0], [device: iPad5,2, os-version: 9.0], [device: iPad5,4, os-version: 9.0], [device: iPad7,3, os-version: 10.0], [device: iPad7,5, os-version: 11.0], [device: iPad5,3, os-version: 9.0], and [device: iPad7,1, os-version: 11.0]
+App + On Demand Resources size: 16.5 MB compressed, 33.4 MB uncompressed
+App size: 16.5 MB compressed, 33.4 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Profit Scan-49933E4F-5D8D-45FE-AEDB-A76EC77AFF31.ipa
+Supported variant descriptors: [device: iPad2,6, os-version: 9.0], [device: iPad2,3, os-version: 9.0], [device: iPad2,5, os-version: 9.0], [device: iPad2,2, os-version: 9.0], [device: iPad2,4, os-version: 9.0], [device: iPad2,7, os-version: 9.0], and [device: iPad2,1, os-version: 9.0]
+App + On Demand Resources size: 15.2 MB compressed, 28.8 MB uncompressed
+App size: 15.2 MB compressed, 28.8 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Profit Scan-7266891E-0417-478F-9019-FA6DDE3661EA.ipa
 Supported variant descriptors: [device: iPhone11,8, os-version: 12.2]
 App + On Demand Resources size: 12.9 MB compressed, 24.6 MB uncompressed
 App size: 12.9 MB compressed, 24.6 MB uncompressed
 On Demand Resources size: Zero KB compressed, Zero KB uncompressed
 
 
-Variant: Profit Scan-E35CC295-AE84-42F9-9713-DAEDB341E843.ipa
-Supported variant descriptors: [device: iPad2,2, os-version: 9.0], [device: iPad2,1, os-version: 9.0], [device: iPad2,5, os-version: 9.0], [device: iPad2,4, os-version: 9.0], [device: iPad2,6, os-version: 9.0], [device: iPad2,7, os-version: 9.0], and [device: iPad2,3, os-version: 9.0]
-App + On Demand Resources size: 15.2 MB compressed, 28.8 MB uncompressed
-App size: 15.2 MB compressed, 28.8 MB uncompressed
+Variant: Profit Scan-853150C7-F39C-44F8-B551-EB8F54D65463.ipa
+Supported variant descriptors: [device: iPhone10,6, os-version: 12.2], [device: iPhone9,4, os-version: 12.2], [device: iPhone11,6, os-version: 12.2], [device: iPhone11,4, os-version: 12.2], [device: iPhone9,2, os-version: 12.2], [device: iPhone10,2, os-version: 12.2], [device: iPhone10,3, os-version: 12.2], [device: iPhone10,5, os-version: 12.2], [device: iPhone7,1, os-version: 12.2], [device: iPhone8,2, os-version: 12.2], and [device: iPhone11,2, os-version: 12.2]
+App + On Demand Resources size: 15.4 MB compressed, 27.2 MB uncompressed
+App size: 15.4 MB compressed, 27.2 MB uncompressed
 On Demand Resources size: Zero KB compressed, Zero KB uncompressed
 
 
-Variant: Profit Scan-F68197C4-E4EA-45EE-98D0-CC7F80E01141.ipa
-Supported variant descriptors: [device: iPhone8,1, os-version: 12.2], [device: iPod7,1, os-version: 12.2], [device: iPhone10,1, os-version: 12.2], [device: iPhone6,2, os-version: 12.2], [device: iPod9,1, os-version: 12.2], [device: iPhone9,1, os-version: 12.2], [device: iPhone7,2, os-version: 12.2], [device: iPhone9,3, os-version: 12.2], [device: iPhone10,4, os-version: 12.2], [device: iPhone6,1, os-version: 12.2], and [device: iPhone8,4, os-version: 12.2]
-App + On Demand Resources size: 12.9 MB compressed, 24.6 MB uncompressed
-App size: 12.9 MB compressed, 24.6 MB uncompressed
+Variant: Profit Scan-8819BCDA-4483-4CA7-A9DD-2029A502D7E0.ipa
+Supported variant descriptors: [device: iPad3,3, os-version: 9.0], [device: iPad3,4, os-version: 9.0], [device: iPad3,5, os-version: 9.0], [device: iPad3,6, os-version: 9.0], [device: iPad3,1, os-version: 9.0], and [device: iPad3,2, os-version: 9.0]
+App + On Demand Resources size: 17.5 MB compressed, 31.1 MB uncompressed
+App size: 17.5 MB compressed, 31.1 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Profit Scan-8A79D23E-4D4F-4CF4-B69F-55CFA31E5795.ipa
+Supported variant descriptors: [device: iPhone6,2, os-version: 12.0], [device: iPhone8,4, os-version: 12.0], [device: iPhone9,3, os-version: 12.0], [device: iPhone10,1, os-version: 12.0], [device: iPhone9,1, os-version: 12.0], [device: iPhone10,4, os-version: 12.0], [device: iPhone7,2, os-version: 12.0], [device: iPhone8,1, os-version: 12.0], [device: iPod7,1, os-version: 12.0], and [device: iPhone6,1, os-version: 12.0]
+App + On Demand Resources size: 15.4 MB compressed, 32.2 MB uncompressed
+App size: 15.4 MB compressed, 32.2 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Profit Scan-C75ACFFF-C46E-4691-A030-AD6D5E511860.ipa
+Supported variant descriptors: [device: iPhone4,1, os-version: 9.0], [device: iPhone5,3, os-version: 9.0], [device: iPhone5,4, os-version: 9.0], [device: iPhone5,1, os-version: 9.0], [device: iPhone5,2, os-version: 9.0], and [device: iPod5,1, os-version: 9.0]
+App + On Demand Resources size: 17.5 MB compressed, 31.1 MB uncompressed
+App size: 17.5 MB compressed, 31.1 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Profit Scan-C8BB3E45-B152-4B1C-813C-949908CD3007.ipa
+Supported variant descriptors: [device: iPhone10,2, os-version: 12.0], [device: iPhone11,2, os-version: 12.0], [device: iPhone7,1, os-version: 12.0], [device: iPhone10,3, os-version: 12.0], [device: iPhone11,4, os-version: 12.0], [device: iPhone11,6, os-version: 12.0], [device: iPhone10,5, os-version: 12.0], [device: iPhone10,6, os-version: 12.0], [device: iPhone8,2, os-version: 12.0], [device: iPhone9,2, os-version: 12.0], and [device: iPhone9,4, os-version: 12.0]
+App + On Demand Resources size: 17.9 MB compressed, 34.8 MB uncompressed
+App size: 17.9 MB compressed, 34.8 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Profit Scan-D7D50119-8EB0-4F23-8188-A8BE4661D2DD.ipa
+Supported variant descriptors: [device: iPhone9,4, os-version: 11.0], [device: iPhone8,2, os-version: 9.0], [device: iPhone9,2, os-version: 11.0], [device: iPhone9,4, os-version: 10.0], [device: iPhone7,1, os-version: 9.0], [device: iPhone10,2, os-version: 11.0], [device: iPhone10,5, os-version: 11.0], [device: iPhone9,2, os-version: 10.0], [device: iPhone10,6, os-version: 11.0], and [device: iPhone10,3, os-version: 11.0]
+App + On Demand Resources size: 19.3 MB compressed, 36.2 MB uncompressed
+App size: 19.3 MB compressed, 36.2 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Profit Scan-D8BF83B7-3805-4C15-AB1F-FE379CBB98C2.ipa
+Supported variant descriptors: [device: iPhone11,8, os-version: 12.0]
+App + On Demand Resources size: 15.4 MB compressed, 32.2 MB uncompressed
+App size: 15.4 MB compressed, 32.2 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Profit Scan-E236E385-F38D-4BB1-95E9-E0A77CFE9CFF.ipa
+Supported variant descriptors: [device: iPhone9,1, os-version: 10.0], [device: iPhone10,4, os-version: 11.0], [device: iPhone7,2, os-version: 9.0], [device: iPhone8,1, os-version: 9.0], [device: iPhone9,3, os-version: 10.0], [device: iPhone8,4, os-version: 9.0], [device: iPhone6,2, os-version: 9.0], [device: iPhone9,1, os-version: 11.0], [device: iPhone9,3, os-version: 11.0], [device: iPhone10,1, os-version: 11.0], [device: iPhone6,1, os-version: 9.0], and [device: iPod7,1, os-version: 9.0]
+App + On Demand Resources size: 16.5 MB compressed, 33.3 MB uncompressed
+App size: 16.5 MB compressed, 33.3 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Profit Scan-EE91441A-2BB9-46AB-B701-2366A6F6725E.ipa
+Supported variant descriptors: [device: iPad8,6, os-version: 12.0], [device: iPad5,1, os-version: 12.0], [device: iPad8,2, os-version: 12.0], [device: iPad8,8, os-version: 12.0], [device: iPad6,7, os-version: 12.0], [device: iPad4,2, os-version: 12.0], [device: iPad6,11, os-version: 12.0], [device: iPad8,5, os-version: 12.0], [device: iPad8,3, os-version: 12.0], [device: iPad5,3, os-version: 12.0], [device: iPad8,4, os-version: 12.0], [device: iPad4,6, os-version: 12.0], [device: iPad7,6, os-version: 12.0], [device: iPad4,7, os-version: 12.0], [device: iPad4,9, os-version: 12.0], [device: iPad7,3, os-version: 12.0], [device: iPad8,7, os-version: 12.0], [device: iPad4,8, os-version: 12.0], [device: iPad4,1, os-version: 12.0], [device: iPad7,5, os-version: 12.0], [device: iPad6,4, os-version: 12.0], [device: iPad4,4, os-version: 12.0], [device: iPad8,1, os-version: 12.0], [device: iPad6,8, os-version: 12.0], [device: iPad7,4, os-version: 12.0], [device: iPad7,1, os-version: 12.0], [device: iPad6,3, os-version: 12.0], [device: iPad4,5, os-version: 12.0], [device: iPad5,2, os-version: 12.0], [device: iPad7,2, os-version: 12.0], [device: iPad4,3, os-version: 12.0], [device: iPad6,12, os-version: 12.0], and [device: iPad5,4, os-version: 12.0]
+App + On Demand Resources size: 15.4 MB compressed, 32.2 MB uncompressed
+App size: 15.4 MB compressed, 32.2 MB uncompressed
 On Demand Resources size: Zero KB compressed, Zero KB uncompressed
 
 
