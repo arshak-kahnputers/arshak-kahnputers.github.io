@@ -47,225 +47,26 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://arshak-kahnputers.github.io/Profit-Scan-715E17ED-E2BD-40DD-8CFA-442D02BF2FC5.ipa</string>
+					<string>https://arshak-kahnputers.github.io/Profit-Scan-7509462F-DFED-42D5-A843-CF33DD984F79.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
-						<dict>
-							<key>device</key>
-							<string>iPad5,1</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad5,4</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad4,5</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad4,9</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad6,11</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad4,3</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad7,5</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad4,4</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad4,8</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad6,12</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad4,1</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad5,2</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad4,7</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad4,6</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad7,6</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad5,3</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad4,2</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad6,8</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad6,7</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-					</array>
-					<key>variantIds</key>
-					<array/>
-				</dict>
-				<dict>
-					<key>bundle-identifier</key>
-					<string>com.profit.scan</string>
-					<key>kind</key>
-					<string>software-package</string>
-					<key>url</key>
-					<string>https://arshak-kahnputers.github.io/Profit-Scan-9980DE34-500D-4986-9A8E-929D2AC2828E.ipa</string>
-					<key>variantDescriptors</key>
-					<array>
-						<dict>
-							<key>device</key>
-							<string>iPhone11,8</string>
-							<key>os-version</key>
-							<string>12.0</string>
-						</dict>
-					</array>
-					<key>variantIds</key>
-					<array>
-						<string>iPhone11,8</string>
-					</array>
-				</dict>
-				<dict>
-					<key>bundle-identifier</key>
-					<string>com.profit.scan</string>
-					<key>kind</key>
-					<string>software-package</string>
-					<key>url</key>
-					<string>https://arshak-kahnputers.github.io/Profit-Scan-12B0273E-1B94-4F0F-95F9-E6F63F48AABB.ipa</string>
-					<key>variantDescriptors</key>
-					<array>
-						<dict>
-							<key>device</key>
-							<string>iPod9,1</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPhone7,2</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
 						<dict>
 							<key>device</key>
 							<string>iPhone8,4</string>
 							<key>os-version</key>
-							<string>12.2</string>
+							<string>13.0</string>
 						</dict>
 						<dict>
 							<key>device</key>
 							<string>iPhone8,1</string>
 							<key>os-version</key>
-							<string>12.2</string>
+							<string>13.0</string>
 						</dict>
 						<dict>
 							<key>device</key>
-							<string>iPod7,1</string>
+							<string>iPod9,1</string>
 							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPhone6,1</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPhone6,2</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-					</array>
-					<key>variantIds</key>
-					<array>
-						<string>iPod9,1</string>
-					</array>
-				</dict>
-				<dict>
-					<key>bundle-identifier</key>
-					<string>com.profit.scan</string>
-					<key>kind</key>
-					<string>software-package</string>
-					<key>url</key>
-					<string>https://arshak-kahnputers.github.io/Profit-Scan-5328DBE0-4DCF-47B8-AC89-DBC9AE188D13.ipa</string>
-					<key>variantDescriptors</key>
-					<array>
-						<dict>
-							<key>device</key>
-							<string>iPhone7,1</string>
-							<key>os-version</key>
-							<string>12.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPhone8,2</string>
-							<key>os-version</key>
-							<string>12.0</string>
+							<string>13.0</string>
 						</dict>
 					</array>
 					<key>variantIds</key>
@@ -277,134 +78,12 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://arshak-kahnputers.github.io/Profit-Scan-C8C7EA88-78D0-48FD-973E-8AA0AD9AF778.ipa</string>
-					<key>variantDescriptors</key>
-					<array/>
-					<key>variantIds</key>
-					<array>
-						<string>iPhone5,2</string>
-						<string>iPhone5,3</string>
-						<string>iPhone5,4</string>
-						<string>iPhone5,1</string>
-					</array>
-				</dict>
-				<dict>
-					<key>bundle-identifier</key>
-					<string>com.profit.scan</string>
-					<key>kind</key>
-					<string>software-package</string>
-					<key>url</key>
-					<string>https://arshak-kahnputers.github.io/Profit-Scan-371A5604-F7F1-4C54-9AF9-AC51797DFDE8.ipa</string>
+					<string>https://arshak-kahnputers.github.io/Profit-Scan-F308C525-BC2D-4A2A-8261-280F4A1DE223.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
-						<dict>
-							<key>device</key>
-							<string>iPhone11,8</string>
-							<key>os-version</key>
-							<string>13.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPhone12,1</string>
-							<key>os-version</key>
-							<string>13.0</string>
-						</dict>
-					</array>
-					<key>variantIds</key>
-					<array>
-						<string>iPhone12,1</string>
-					</array>
-				</dict>
-				<dict>
-					<key>bundle-identifier</key>
-					<string>com.profit.scan</string>
-					<key>kind</key>
-					<string>software-package</string>
-					<key>url</key>
-					<string>https://arshak-kahnputers.github.io/Profit-Scan-75793A26-45CC-40BC-B1B0-64F4E5D734E0.ipa</string>
-					<key>variantDescriptors</key>
-					<array>
-						<dict>
-							<key>device</key>
-							<string>iPad4,6</string>
-							<key>os-version</key>
-							<string>12.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad6,8</string>
-							<key>os-version</key>
-							<string>12.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad4,4</string>
-							<key>os-version</key>
-							<string>12.0</string>
-						</dict>
 						<dict>
 							<key>device</key>
 							<string>iPad4,8</string>
-							<key>os-version</key>
-							<string>12.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad5,1</string>
-							<key>os-version</key>
-							<string>12.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad6,11</string>
-							<key>os-version</key>
-							<string>12.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad4,2</string>
-							<key>os-version</key>
-							<string>12.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad7,5</string>
-							<key>os-version</key>
-							<string>12.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad5,3</string>
-							<key>os-version</key>
-							<string>12.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad4,7</string>
-							<key>os-version</key>
-							<string>12.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad7,6</string>
-							<key>os-version</key>
-							<string>12.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad4,9</string>
-							<key>os-version</key>
-							<string>12.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad5,4</string>
-							<key>os-version</key>
-							<string>12.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad4,5</string>
 							<key>os-version</key>
 							<string>12.0</string>
 						</dict>
@@ -416,13 +95,7 @@
 						</dict>
 						<dict>
 							<key>device</key>
-							<string>iPad6,12</string>
-							<key>os-version</key>
-							<string>12.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad5,2</string>
+							<string>iPad6,8</string>
 							<key>os-version</key>
 							<string>12.0</string>
 						</dict>
@@ -434,44 +107,91 @@
 						</dict>
 						<dict>
 							<key>device</key>
+							<string>iPad4,2</string>
+							<key>os-version</key>
+							<string>12.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad4,4</string>
+							<key>os-version</key>
+							<string>12.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad4,5</string>
+							<key>os-version</key>
+							<string>12.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad4,9</string>
+							<key>os-version</key>
+							<string>12.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad5,2</string>
+							<key>os-version</key>
+							<string>12.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad4,6</string>
+							<key>os-version</key>
+							<string>12.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad6,11</string>
+							<key>os-version</key>
+							<string>12.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad5,3</string>
+							<key>os-version</key>
+							<string>12.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad6,12</string>
+							<key>os-version</key>
+							<string>12.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad7,6</string>
+							<key>os-version</key>
+							<string>12.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad7,5</string>
+							<key>os-version</key>
+							<string>12.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
 							<string>iPad4,3</string>
 							<key>os-version</key>
 							<string>12.0</string>
 						</dict>
-					</array>
-					<key>variantIds</key>
-					<array/>
-				</dict>
-				<dict>
-					<key>bundle-identifier</key>
-					<string>com.profit.scan</string>
-					<key>kind</key>
-					<string>software-package</string>
-					<key>url</key>
-					<string>https://arshak-kahnputers.github.io/Profit-Scan-D908B0C6-F3F0-4F9A-85CF-DBCA8EDC1780.ipa</string>
-					<key>variantDescriptors</key>
-					<array>
 						<dict>
 							<key>device</key>
-							<string>iPhone9,1</string>
+							<string>iPad5,1</string>
 							<key>os-version</key>
 							<string>12.0</string>
 						</dict>
 						<dict>
 							<key>device</key>
-							<string>iPhone9,3</string>
+							<string>iPad5,4</string>
 							<key>os-version</key>
 							<string>12.0</string>
 						</dict>
 						<dict>
 							<key>device</key>
-							<string>iPhone10,1</string>
-							<key>os-version</key>
-							<string>12.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPhone10,4</string>
+							<string>iPad4,7</string>
 							<key>os-version</key>
 							<string>12.0</string>
 						</dict>
@@ -485,84 +205,12 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://arshak-kahnputers.github.io/Profit-Scan-E9A52BDA-9BB0-4627-A3FE-0957A562695C.ipa</string>
-					<key>variantDescriptors</key>
-					<array/>
-					<key>variantIds</key>
-					<array>
-						<string>iPad3,4</string>
-						<string>iPad3,5</string>
-						<string>iPad3,6</string>
-					</array>
-				</dict>
-				<dict>
-					<key>bundle-identifier</key>
-					<string>com.profit.scan</string>
-					<key>kind</key>
-					<string>software-package</string>
-					<key>url</key>
-					<string>https://arshak-kahnputers.github.io/Profit-Scan-6F0D0777-4DA1-4C00-8B40-F0770C55C39E.ipa</string>
+					<string>https://arshak-kahnputers.github.io/Profit-Scan-C2533546-C4C6-4FE5-B9C9-42867CE48FC3.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
 							<key>device</key>
-							<string>iPhone7,1</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPhone8,2</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-					</array>
-					<key>variantIds</key>
-					<array/>
-				</dict>
-				<dict>
-					<key>bundle-identifier</key>
-					<string>com.profit.scan</string>
-					<key>kind</key>
-					<string>software-package</string>
-					<key>url</key>
-					<string>https://arshak-kahnputers.github.io/Profit-Scan-CC1ADDDF-5309-4BC3-A2B7-77ADA0B445D5.ipa</string>
-					<key>variantDescriptors</key>
-					<array/>
-					<key>variantIds</key>
-					<array>
-						<string>iPhone10,5</string>
-						<string>iPhone10,3</string>
-						<string>iPhone9,4</string>
-						<string>iPhone10,6</string>
-						<string>iPhone9,2</string>
-						<string>iPhone10,2</string>
-					</array>
-				</dict>
-				<dict>
-					<key>bundle-identifier</key>
-					<string>com.profit.scan</string>
-					<key>kind</key>
-					<string>software-package</string>
-					<key>url</key>
-					<string>https://arshak-kahnputers.github.io/Profit-Scan-63B3C954-460E-4D0B-B3AF-5092447BB468.ipa</string>
-					<key>variantDescriptors</key>
-					<array>
-						<dict>
-							<key>device</key>
-							<string>iPhone11,6</string>
-							<key>os-version</key>
-							<string>12.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPhone11,4</string>
-							<key>os-version</key>
-							<string>12.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPhone10,2</string>
+							<string>iPhone11,2</string>
 							<key>os-version</key>
 							<string>12.0</string>
 						</dict>
@@ -574,7 +222,7 @@
 						</dict>
 						<dict>
 							<key>device</key>
-							<string>iPhone9,4</string>
+							<string>iPhone10,2</string>
 							<key>os-version</key>
 							<string>12.0</string>
 						</dict>
@@ -586,7 +234,7 @@
 						</dict>
 						<dict>
 							<key>device</key>
-							<string>iPhone11,2</string>
+							<string>iPhone11,4</string>
 							<key>os-version</key>
 							<string>12.0</string>
 						</dict>
@@ -598,7 +246,19 @@
 						</dict>
 						<dict>
 							<key>device</key>
+							<string>iPhone9,4</string>
+							<key>os-version</key>
+							<string>12.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
 							<string>iPhone10,5</string>
+							<key>os-version</key>
+							<string>12.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone11,6</string>
 							<key>os-version</key>
 							<string>12.0</string>
 						</dict>
@@ -616,246 +276,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://arshak-kahnputers.github.io/Profit-Scan-D6C0AEC7-41DE-4D9C-85CC-2AFAE2B4227F.ipa</string>
-					<key>variantDescriptors</key>
-					<array>
-						<dict>
-							<key>device</key>
-							<string>iPhone9,3</string>
-							<key>os-version</key>
-							<string>13.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPhone10,4</string>
-							<key>os-version</key>
-							<string>13.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPhone10,1</string>
-							<key>os-version</key>
-							<string>13.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPhone9,1</string>
-							<key>os-version</key>
-							<string>13.0</string>
-						</dict>
-					</array>
-					<key>variantIds</key>
-					<array/>
-				</dict>
-				<dict>
-					<key>bundle-identifier</key>
-					<string>com.profit.scan</string>
-					<key>kind</key>
-					<string>software-package</string>
-					<key>url</key>
-					<string>https://arshak-kahnputers.github.io/Profit-Scan-BFF99E78-5D2F-4745-93B1-A984B4324A27.ipa</string>
-					<key>variantDescriptors</key>
-					<array>
-						<dict>
-							<key>device</key>
-							<string>iPhone8,2</string>
-							<key>os-version</key>
-							<string>13.0</string>
-						</dict>
-					</array>
-					<key>variantIds</key>
-					<array/>
-				</dict>
-				<dict>
-					<key>bundle-identifier</key>
-					<string>com.profit.scan</string>
-					<key>kind</key>
-					<string>software-package</string>
-					<key>url</key>
-					<string>https://arshak-kahnputers.github.io/Profit-Scan-E1BF8687-E5DA-43B7-8266-AD877472CFB2.ipa</string>
-					<key>variantDescriptors</key>
-					<array>
-						<dict>
-							<key>device</key>
-							<string>iPhone11,8</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-					</array>
-					<key>variantIds</key>
-					<array/>
-				</dict>
-				<dict>
-					<key>bundle-identifier</key>
-					<string>com.profit.scan</string>
-					<key>kind</key>
-					<string>software-package</string>
-					<key>url</key>
-					<string>https://arshak-kahnputers.github.io/Profit-Scan-4BAEFFC4-9FFF-462E-A24B-14DD9E66232F.ipa</string>
-					<key>variantDescriptors</key>
-					<array/>
-					<key>variantIds</key>
-					<array>
-						<string>iPad7,4</string>
-						<string>iPad7,2</string>
-						<string>iPad6,4</string>
-						<string>iPad7,3</string>
-						<string>iPad7,1</string>
-						<string>iPad6,3</string>
-					</array>
-				</dict>
-				<dict>
-					<key>bundle-identifier</key>
-					<string>com.profit.scan</string>
-					<key>kind</key>
-					<string>software-package</string>
-					<key>url</key>
-					<string>https://arshak-kahnputers.github.io/Profit-Scan-2A0BB49E-EE40-43E2-844C-043DF331C257.ipa</string>
-					<key>variantDescriptors</key>
-					<array/>
-					<key>variantIds</key>
-					<array>
-						<string>iPhone7,1</string>
-						<string>iPhone8,2</string>
-					</array>
-				</dict>
-				<dict>
-					<key>bundle-identifier</key>
-					<string>com.profit.scan</string>
-					<key>kind</key>
-					<string>software-package</string>
-					<key>url</key>
-					<string>https://arshak-kahnputers.github.io/Profit-Scan-F44FBBE6-BCDF-4CB1-BE1A-D5C6067E4F34.ipa</string>
-					<key>variantDescriptors</key>
-					<array/>
-					<key>variantIds</key>
-					<array>
-						<string>iPad4,4</string>
-						<string>iPad5,3</string>
-						<string>iPad4,1</string>
-						<string>iPad4,6</string>
-						<string>iPad4,9</string>
-						<string>iPad6,7</string>
-						<string>iPad4,3</string>
-						<string>iPad4,8</string>
-						<string>iPad7,6</string>
-						<string>iPad5,2</string>
-						<string>iPad4,5</string>
-						<string>iPad5,4</string>
-						<string>iPad6,11</string>
-						<string>iPad7,5</string>
-						<string>iPad4,2</string>
-						<string>iPad5,1</string>
-						<string>iPad6,8</string>
-						<string>iPad4,7</string>
-						<string>iPad6,12</string>
-					</array>
-				</dict>
-				<dict>
-					<key>bundle-identifier</key>
-					<string>com.profit.scan</string>
-					<key>kind</key>
-					<string>software-package</string>
-					<key>url</key>
-					<string>https://arshak-kahnputers.github.io/Profit-Scan-AEA43943-314F-441C-8B71-8DDCA57E1696.ipa</string>
-					<key>variantDescriptors</key>
-					<array>
-						<dict>
-							<key>device</key>
-							<string>iPhone10,3</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPhone9,2</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPhone10,6</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPhone11,4</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPhone9,4</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPhone10,5</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPhone11,6</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPhone10,2</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPhone11,2</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-					</array>
-					<key>variantIds</key>
-					<array/>
-				</dict>
-				<dict>
-					<key>bundle-identifier</key>
-					<string>com.profit.scan</string>
-					<key>kind</key>
-					<string>software-package</string>
-					<key>url</key>
-					<string>https://arshak-kahnputers.github.io/Profit-Scan-2D87D182-733A-46ED-8782-A3C222BB1C2E.ipa</string>
-					<key>variantDescriptors</key>
-					<array>
-						<dict>
-							<key>device</key>
-							<string>iPod9,1</string>
-							<key>os-version</key>
-							<string>13.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPhone8,1</string>
-							<key>os-version</key>
-							<string>13.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPhone8,4</string>
-							<key>os-version</key>
-							<string>13.0</string>
-						</dict>
-					</array>
-					<key>variantIds</key>
-					<array/>
-				</dict>
-				<dict>
-					<key>bundle-identifier</key>
-					<string>com.profit.scan</string>
-					<key>kind</key>
-					<string>software-package</string>
-					<key>url</key>
-					<string>https://arshak-kahnputers.github.io/Profit-Scan-518F2045-4983-422D-8E72-D79714915B5E.ipa</string>
+					<string>https://arshak-kahnputers.github.io/Profit-Scan-C17D8409-B85F-4075-B90C-20DF281483C0.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -866,7 +287,7 @@
 						</dict>
 						<dict>
 							<key>device</key>
-							<string>iPhone7,2</string>
+							<string>iPhone8,4</string>
 							<key>os-version</key>
 							<string>12.0</string>
 						</dict>
@@ -884,13 +305,13 @@
 						</dict>
 						<dict>
 							<key>device</key>
-							<string>iPod7,1</string>
+							<string>iPhone7,2</string>
 							<key>os-version</key>
 							<string>12.0</string>
 						</dict>
 						<dict>
 							<key>device</key>
-							<string>iPhone8,4</string>
+							<string>iPod7,1</string>
 							<key>os-version</key>
 							<string>12.0</string>
 						</dict>
@@ -904,32 +325,32 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://arshak-kahnputers.github.io/Profit-Scan-4D273F27-E566-4594-82F1-E57A94E4035D.ipa</string>
+					<string>https://arshak-kahnputers.github.io/Profit-Scan-00FBD328-699F-4961-825B-4D06F33FB20C.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
 							<key>device</key>
-							<string>iPhone9,1</string>
+							<string>iPhone10,1</string>
 							<key>os-version</key>
-							<string>12.2</string>
+							<string>12.0</string>
 						</dict>
 						<dict>
 							<key>device</key>
-							<string>iPhone10,4</string>
+							<string>iPhone9,1</string>
 							<key>os-version</key>
-							<string>12.2</string>
+							<string>12.0</string>
 						</dict>
 						<dict>
 							<key>device</key>
 							<string>iPhone9,3</string>
 							<key>os-version</key>
-							<string>12.2</string>
+							<string>12.0</string>
 						</dict>
 						<dict>
 							<key>device</key>
-							<string>iPhone10,1</string>
+							<string>iPhone10,4</string>
 							<key>os-version</key>
-							<string>12.2</string>
+							<string>12.0</string>
 						</dict>
 					</array>
 					<key>variantIds</key>
@@ -941,141 +362,12 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://arshak-kahnputers.github.io/Profit-Scan-4FBB4F12-B3BA-4EBD-BE8E-1DBAEA263441.ipa</string>
+					<string>https://arshak-kahnputers.github.io/Profit-Scan-0C1DA8E6-6DAB-4FFC-AB03-7A8C1B64416B.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
 							<key>device</key>
-							<string>iPad5,1</string>
-							<key>os-version</key>
-							<string>13.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad6,7</string>
-							<key>os-version</key>
-							<string>13.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad6,8</string>
-							<key>os-version</key>
-							<string>13.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad5,2</string>
-							<key>os-version</key>
-							<string>13.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad6,12</string>
-							<key>os-version</key>
-							<string>13.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad7,6</string>
-							<key>os-version</key>
-							<string>13.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad5,4</string>
-							<key>os-version</key>
-							<string>13.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad6,11</string>
-							<key>os-version</key>
-							<string>13.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad7,5</string>
-							<key>os-version</key>
-							<string>13.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad7,11</string>
-							<key>os-version</key>
-							<string>13.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad7,12</string>
-							<key>os-version</key>
-							<string>13.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad5,3</string>
-							<key>os-version</key>
-							<string>13.0</string>
-						</dict>
-					</array>
-					<key>variantIds</key>
-					<array>
-						<string>iPad7,11</string>
-						<string>iPad7,12</string>
-					</array>
-				</dict>
-				<dict>
-					<key>bundle-identifier</key>
-					<string>com.profit.scan</string>
-					<key>kind</key>
-					<string>software-package</string>
-					<key>url</key>
-					<string>https://arshak-kahnputers.github.io/Profit-Scan-08B5BD03-5541-4236-8AE0-F7FA6E47E00A.ipa</string>
-					<key>variantDescriptors</key>
-					<array/>
-					<key>variantIds</key>
-					<array>
-						<string>iPhone9,1</string>
-						<string>iPhone10,1</string>
-						<string>iPhone10,4</string>
-						<string>iPhone9,3</string>
-					</array>
-				</dict>
-				<dict>
-					<key>bundle-identifier</key>
-					<string>com.profit.scan</string>
-					<key>kind</key>
-					<string>software-package</string>
-					<key>url</key>
-					<string>https://arshak-kahnputers.github.io/Profit-Scan-047C1676-8B7F-4FC0-BE31-07DC64605CAF.ipa</string>
-					<key>variantDescriptors</key>
-					<array>
-						<dict>
-							<key>device</key>
-							<string>iPad8,7</string>
-							<key>os-version</key>
-							<string>12.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad7,3</string>
-							<key>os-version</key>
-							<string>12.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad8,2</string>
-							<key>os-version</key>
-							<string>12.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad7,2</string>
-							<key>os-version</key>
-							<string>12.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad8,8</string>
+							<string>iPad7,1</string>
 							<key>os-version</key>
 							<string>12.0</string>
 						</dict>
@@ -1087,25 +379,49 @@
 						</dict>
 						<dict>
 							<key>device</key>
+							<string>iPad6,3</string>
+							<key>os-version</key>
+							<string>12.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad7,3</string>
+							<key>os-version</key>
+							<string>12.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad8,7</string>
+							<key>os-version</key>
+							<string>12.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
 							<string>iPad7,4</string>
 							<key>os-version</key>
 							<string>12.0</string>
 						</dict>
 						<dict>
 							<key>device</key>
-							<string>iPad8,6</string>
-							<key>os-version</key>
-							<string>12.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad8,3</string>
-							<key>os-version</key>
-							<string>12.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
 							<string>iPad8,1</string>
+							<key>os-version</key>
+							<string>12.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad7,2</string>
+							<key>os-version</key>
+							<string>12.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad8,2</string>
+							<key>os-version</key>
+							<string>12.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad8,6</string>
 							<key>os-version</key>
 							<string>12.0</string>
 						</dict>
@@ -1123,13 +439,13 @@
 						</dict>
 						<dict>
 							<key>device</key>
-							<string>iPad7,1</string>
+							<string>iPad8,3</string>
 							<key>os-version</key>
 							<string>12.0</string>
 						</dict>
 						<dict>
 							<key>device</key>
-							<string>iPad6,3</string>
+							<string>iPad8,8</string>
 							<key>os-version</key>
 							<string>12.0</string>
 						</dict>
@@ -1152,96 +468,539 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://arshak-kahnputers.github.io/Profit-Scan-E60569CB-D7E5-4979-8D90-8E9911733BF9.ipa</string>
+					<string>https://arshak-kahnputers.github.io/Profit-Scan-7721EB07-8F73-4698-8771-0B061642E7D6.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
 							<key>device</key>
-							<string>iPad7,1</string>
+							<string>iPhone10,3</string>
 							<key>os-version</key>
 							<string>12.2</string>
 						</dict>
 						<dict>
 							<key>device</key>
-							<string>iPad8,1</string>
+							<string>iPhone11,2</string>
 							<key>os-version</key>
 							<string>12.2</string>
 						</dict>
 						<dict>
 							<key>device</key>
-							<string>iPad7,4</string>
+							<string>iPhone9,4</string>
 							<key>os-version</key>
 							<string>12.2</string>
 						</dict>
 						<dict>
 							<key>device</key>
-							<string>iPad8,2</string>
+							<string>iPhone10,2</string>
 							<key>os-version</key>
 							<string>12.2</string>
 						</dict>
 						<dict>
 							<key>device</key>
-							<string>iPad6,3</string>
+							<string>iPhone11,4</string>
 							<key>os-version</key>
 							<string>12.2</string>
 						</dict>
 						<dict>
 							<key>device</key>
-							<string>iPad7,2</string>
+							<string>iPhone11,6</string>
 							<key>os-version</key>
 							<string>12.2</string>
 						</dict>
 						<dict>
 							<key>device</key>
-							<string>iPad11,2</string>
+							<string>iPhone9,2</string>
 							<key>os-version</key>
 							<string>12.2</string>
 						</dict>
 						<dict>
 							<key>device</key>
-							<string>iPad11,1</string>
+							<string>iPhone10,6</string>
 							<key>os-version</key>
 							<string>12.2</string>
 						</dict>
 						<dict>
 							<key>device</key>
-							<string>iPad11,4</string>
+							<string>iPhone10,5</string>
 							<key>os-version</key>
 							<string>12.2</string>
 						</dict>
+					</array>
+					<key>variantIds</key>
+					<array/>
+				</dict>
+				<dict>
+					<key>bundle-identifier</key>
+					<string>com.profit.scan</string>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://arshak-kahnputers.github.io/Profit-Scan-661128F2-B17B-410D-8842-E97255008345.ipa</string>
+					<key>variantDescriptors</key>
+					<array>
+						<dict>
+							<key>device</key>
+							<string>iPhone9,3</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone10,1</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone10,4</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone9,1</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+					</array>
+					<key>variantIds</key>
+					<array/>
+				</dict>
+				<dict>
+					<key>bundle-identifier</key>
+					<string>com.profit.scan</string>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://arshak-kahnputers.github.io/Profit-Scan-24C50A5F-E6C5-44D1-817F-1AE59326C6D8.ipa</string>
+					<key>variantDescriptors</key>
+					<array>
+						<dict>
+							<key>device</key>
+							<string>iPhone11,2</string>
+							<key>os-version</key>
+							<string>13.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone10,5</string>
+							<key>os-version</key>
+							<string>13.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone10,2</string>
+							<key>os-version</key>
+							<string>13.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone10,3</string>
+							<key>os-version</key>
+							<string>13.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone12,3</string>
+							<key>os-version</key>
+							<string>13.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone11,4</string>
+							<key>os-version</key>
+							<string>13.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone11,6</string>
+							<key>os-version</key>
+							<string>13.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone9,4</string>
+							<key>os-version</key>
+							<string>13.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone12,5</string>
+							<key>os-version</key>
+							<string>13.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone10,6</string>
+							<key>os-version</key>
+							<string>13.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone9,2</string>
+							<key>os-version</key>
+							<string>13.0</string>
+						</dict>
+					</array>
+					<key>variantIds</key>
+					<array>
+						<string>iPhone12,5</string>
+						<string>iPhone12,3</string>
+					</array>
+				</dict>
+				<dict>
+					<key>bundle-identifier</key>
+					<string>com.profit.scan</string>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://arshak-kahnputers.github.io/Profit-Scan-214B78B0-8430-4A93-A7A3-EF710171C540.ipa</string>
+					<key>variantDescriptors</key>
+					<array>
+						<dict>
+							<key>device</key>
+							<string>iPhone11,8</string>
+							<key>os-version</key>
+							<string>12.0</string>
+						</dict>
+					</array>
+					<key>variantIds</key>
+					<array>
+						<string>iPhone11,8</string>
+					</array>
+				</dict>
+				<dict>
+					<key>bundle-identifier</key>
+					<string>com.profit.scan</string>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://arshak-kahnputers.github.io/Profit-Scan-0F543AC9-274E-409A-BD73-62583A177E25.ipa</string>
+					<key>variantDescriptors</key>
+					<array>
+						<dict>
+							<key>device</key>
+							<string>iPhone8,2</string>
+							<key>os-version</key>
+							<string>13.0</string>
+						</dict>
+					</array>
+					<key>variantIds</key>
+					<array/>
+				</dict>
+				<dict>
+					<key>bundle-identifier</key>
+					<string>com.profit.scan</string>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://arshak-kahnputers.github.io/Profit-Scan-92DBB647-D461-4E4B-9718-B6DE9A74F953.ipa</string>
+					<key>variantDescriptors</key>
+					<array/>
+					<key>variantIds</key>
+					<array>
+						<string>iPad4,9</string>
+						<string>iPad5,3</string>
+						<string>iPad4,1</string>
+						<string>iPad4,6</string>
+						<string>iPad6,8</string>
+						<string>iPad6,7</string>
+						<string>iPad4,3</string>
+						<string>iPad4,8</string>
+						<string>iPad7,6</string>
+						<string>iPad5,2</string>
+						<string>iPad4,5</string>
+						<string>iPad5,4</string>
+						<string>iPad6,11</string>
+						<string>iPad7,5</string>
+						<string>iPad4,2</string>
+						<string>iPad5,1</string>
+						<string>iPad4,7</string>
+						<string>iPad6,12</string>
+						<string>iPad4,4</string>
+					</array>
+				</dict>
+				<dict>
+					<key>bundle-identifier</key>
+					<string>com.profit.scan</string>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://arshak-kahnputers.github.io/Profit-Scan-7C41F0A8-74E9-4C7C-84AE-A74CFEC5A429.ipa</string>
+					<key>variantDescriptors</key>
+					<array/>
+					<key>variantIds</key>
+					<array>
+						<string>iPhone7,1</string>
+						<string>iPhone8,2</string>
+					</array>
+				</dict>
+				<dict>
+					<key>bundle-identifier</key>
+					<string>com.profit.scan</string>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://arshak-kahnputers.github.io/Profit-Scan-E36DE957-937A-4776-A75D-1AA35E84A97B.ipa</string>
+					<key>variantDescriptors</key>
+					<array/>
+					<key>variantIds</key>
+					<array>
+						<string>iPhone9,1</string>
+						<string>iPhone10,1</string>
+						<string>iPhone10,4</string>
+						<string>iPhone9,3</string>
+					</array>
+				</dict>
+				<dict>
+					<key>bundle-identifier</key>
+					<string>com.profit.scan</string>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://arshak-kahnputers.github.io/Profit-Scan-ED9AA869-3987-4F82-BE5A-0979C2888CE3.ipa</string>
+					<key>variantDescriptors</key>
+					<array>
+						<dict>
+							<key>device</key>
+							<string>iPhone8,2</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone7,1</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+					</array>
+					<key>variantIds</key>
+					<array/>
+				</dict>
+				<dict>
+					<key>bundle-identifier</key>
+					<string>com.profit.scan</string>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://arshak-kahnputers.github.io/Profit-Scan-7D7A43D2-D893-4536-8FCB-3D7BEA6FD1A7.ipa</string>
+					<key>variantDescriptors</key>
+					<array/>
+					<key>variantIds</key>
+					<array>
+						<string>iPad3,4</string>
+						<string>iPad3,5</string>
+						<string>iPad3,6</string>
+					</array>
+				</dict>
+				<dict>
+					<key>bundle-identifier</key>
+					<string>com.profit.scan</string>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://arshak-kahnputers.github.io/Profit-Scan-BFB190F6-C447-4067-AC84-CD865D70B43A.ipa</string>
+					<key>variantDescriptors</key>
+					<array>
+						<dict>
+							<key>device</key>
+							<string>iPhone12,1</string>
+							<key>os-version</key>
+							<string>13.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone11,8</string>
+							<key>os-version</key>
+							<string>13.0</string>
+						</dict>
+					</array>
+					<key>variantIds</key>
+					<array>
+						<string>iPhone12,1</string>
+					</array>
+				</dict>
+				<dict>
+					<key>bundle-identifier</key>
+					<string>com.profit.scan</string>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://arshak-kahnputers.github.io/Profit-Scan-336AA5A3-3BCD-4332-A005-DC5667AFF2B6.ipa</string>
+					<key>variantDescriptors</key>
+					<array>
+						<dict>
+							<key>device</key>
+							<string>iPhone7,1</string>
+							<key>os-version</key>
+							<string>12.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone8,2</string>
+							<key>os-version</key>
+							<string>12.0</string>
+						</dict>
+					</array>
+					<key>variantIds</key>
+					<array/>
+				</dict>
+				<dict>
+					<key>bundle-identifier</key>
+					<string>com.profit.scan</string>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://arshak-kahnputers.github.io/Profit-Scan-489C8703-6E6C-420E-9A00-1C908F2C8870.ipa</string>
+					<key>variantDescriptors</key>
+					<array>
+						<dict>
+							<key>device</key>
+							<string>iPhone9,3</string>
+							<key>os-version</key>
+							<string>13.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone10,1</string>
+							<key>os-version</key>
+							<string>13.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone10,4</string>
+							<key>os-version</key>
+							<string>13.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone9,1</string>
+							<key>os-version</key>
+							<string>13.0</string>
+						</dict>
+					</array>
+					<key>variantIds</key>
+					<array/>
+				</dict>
+				<dict>
+					<key>bundle-identifier</key>
+					<string>com.profit.scan</string>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://arshak-kahnputers.github.io/Profit-Scan-08C0808D-7F7E-4940-B10E-1AD75211963C.ipa</string>
+					<key>variantDescriptors</key>
+					<array>
+						<dict>
+							<key>device</key>
+							<string>iPad5,2</string>
+							<key>os-version</key>
+							<string>13.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad5,4</string>
+							<key>os-version</key>
+							<string>13.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad7,12</string>
+							<key>os-version</key>
+							<string>13.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad6,7</string>
+							<key>os-version</key>
+							<string>13.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad6,12</string>
+							<key>os-version</key>
+							<string>13.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad7,6</string>
+							<key>os-version</key>
+							<string>13.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad7,5</string>
+							<key>os-version</key>
+							<string>13.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad7,11</string>
+							<key>os-version</key>
+							<string>13.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad5,1</string>
+							<key>os-version</key>
+							<string>13.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad6,11</string>
+							<key>os-version</key>
+							<string>13.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad6,8</string>
+							<key>os-version</key>
+							<string>13.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad5,3</string>
+							<key>os-version</key>
+							<string>13.0</string>
+						</dict>
+					</array>
+					<key>variantIds</key>
+					<array>
+						<string>iPad7,11</string>
+						<string>iPad7,12</string>
+					</array>
+				</dict>
+				<dict>
+					<key>bundle-identifier</key>
+					<string>com.profit.scan</string>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://arshak-kahnputers.github.io/Profit-Scan-15F23191-E675-4B15-A63E-B5C3569D6475.ipa</string>
+					<key>variantDescriptors</key>
+					<array/>
+					<key>variantIds</key>
+					<array>
+						<string>iPhone10,5</string>
+						<string>iPhone10,3</string>
+						<string>iPhone9,4</string>
+						<string>iPhone10,6</string>
+						<string>iPhone9,2</string>
+						<string>iPhone10,2</string>
+					</array>
+				</dict>
+				<dict>
+					<key>bundle-identifier</key>
+					<string>com.profit.scan</string>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://arshak-kahnputers.github.io/Profit-Scan-ACE112BC-C7F8-43D3-B6D1-7466B4363C81.ipa</string>
+					<key>variantDescriptors</key>
+					<array>
 						<dict>
 							<key>device</key>
 							<string>iPad8,5</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad6,4</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad11,3</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad7,3</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad8,3</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad8,4</string>
 							<key>os-version</key>
 							<string>12.2</string>
 						</dict>
@@ -1253,13 +1012,97 @@
 						</dict>
 						<dict>
 							<key>device</key>
-							<string>iPad8,6</string>
+							<string>iPad6,4</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad11,2</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad7,1</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad7,4</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad8,4</string>
 							<key>os-version</key>
 							<string>12.2</string>
 						</dict>
 						<dict>
 							<key>device</key>
 							<string>iPad8,8</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad8,6</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad11,4</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad8,1</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad6,3</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad7,3</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad8,2</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad11,1</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad11,3</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad8,3</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad7,2</string>
 							<key>os-version</key>
 							<string>12.2</string>
 						</dict>
@@ -1278,9 +1121,235 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://arshak-kahnputers.github.io/Profit-Scan-5F9C23E9-CBAD-4069-959B-01E1C87BA22D.ipa</string>
+					<string>https://arshak-kahnputers.github.io/Profit-Scan-3ECD5678-ECE2-4B64-AE13-EFFEBA46A14F.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
+						<dict>
+							<key>device</key>
+							<string>iPhone6,2</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPod9,1</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone8,1</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone6,1</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone8,4</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone7,2</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPod7,1</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+					</array>
+					<key>variantIds</key>
+					<array>
+						<string>iPod9,1</string>
+					</array>
+				</dict>
+				<dict>
+					<key>bundle-identifier</key>
+					<string>com.profit.scan</string>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://arshak-kahnputers.github.io/Profit-Scan-DB4FFBE5-0AC7-4102-8F1A-BCF7FD55A553.ipa</string>
+					<key>variantDescriptors</key>
+					<array/>
+					<key>variantIds</key>
+					<array>
+						<string>iPhone5,2</string>
+						<string>iPhone5,3</string>
+						<string>iPhone5,4</string>
+						<string>iPhone5,1</string>
+					</array>
+				</dict>
+				<dict>
+					<key>bundle-identifier</key>
+					<string>com.profit.scan</string>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://arshak-kahnputers.github.io/Profit-Scan-F42FC498-6016-486F-8F93-71934544FA76.ipa</string>
+					<key>variantDescriptors</key>
+					<array>
+						<dict>
+							<key>device</key>
+							<string>iPad4,3</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad4,8</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad4,6</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad6,11</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad6,7</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad5,2</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad4,9</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad6,8</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad4,5</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad5,3</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad5,4</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad7,5</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad4,2</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad7,6</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad4,1</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad5,1</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad4,4</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad4,7</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad6,12</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+					</array>
+					<key>variantIds</key>
+					<array/>
+				</dict>
+				<dict>
+					<key>bundle-identifier</key>
+					<string>com.profit.scan</string>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://arshak-kahnputers.github.io/Profit-Scan-4BB32330-8E46-415B-A085-82027BF29E99.ipa</string>
+					<key>variantDescriptors</key>
+					<array>
+						<dict>
+							<key>device</key>
+							<string>iPhone11,8</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+					</array>
+					<key>variantIds</key>
+					<array/>
+				</dict>
+				<dict>
+					<key>bundle-identifier</key>
+					<string>com.profit.scan</string>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://arshak-kahnputers.github.io/Profit-Scan-95E0AC10-F935-4D08-B03D-3BDF1FE96AF8.ipa</string>
+					<key>variantDescriptors</key>
+					<array>
+						<dict>
+							<key>device</key>
+							<string>iPad7,3</string>
+							<key>os-version</key>
+							<string>13.0</string>
+						</dict>
 						<dict>
 							<key>device</key>
 							<string>iPad8,3</string>
@@ -1295,37 +1364,7 @@
 						</dict>
 						<dict>
 							<key>device</key>
-							<string>iPad11,2</string>
-							<key>os-version</key>
-							<string>13.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad8,2</string>
-							<key>os-version</key>
-							<string>13.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad7,1</string>
-							<key>os-version</key>
-							<string>13.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad6,3</string>
-							<key>os-version</key>
-							<string>13.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad8,6</string>
-							<key>os-version</key>
-							<string>13.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad8,1</string>
+							<string>iPad7,4</string>
 							<key>os-version</key>
 							<string>13.0</string>
 						</dict>
@@ -1337,19 +1376,19 @@
 						</dict>
 						<dict>
 							<key>device</key>
-							<string>iPad11,3</string>
-							<key>os-version</key>
-							<string>13.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad7,2</string>
-							<key>os-version</key>
-							<string>13.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
 							<string>iPad11,4</string>
+							<key>os-version</key>
+							<string>13.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad6,4</string>
+							<key>os-version</key>
+							<string>13.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad11,3</string>
 							<key>os-version</key>
 							<string>13.0</string>
 						</dict>
@@ -1361,7 +1400,7 @@
 						</dict>
 						<dict>
 							<key>device</key>
-							<string>iPad7,4</string>
+							<string>iPad11,2</string>
 							<key>os-version</key>
 							<string>13.0</string>
 						</dict>
@@ -1373,7 +1412,7 @@
 						</dict>
 						<dict>
 							<key>device</key>
-							<string>iPad7,3</string>
+							<string>iPad7,1</string>
 							<key>os-version</key>
 							<string>13.0</string>
 						</dict>
@@ -1385,7 +1424,31 @@
 						</dict>
 						<dict>
 							<key>device</key>
-							<string>iPad6,4</string>
+							<string>iPad8,6</string>
+							<key>os-version</key>
+							<string>13.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad7,2</string>
+							<key>os-version</key>
+							<string>13.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad8,1</string>
+							<key>os-version</key>
+							<string>13.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad6,3</string>
+							<key>os-version</key>
+							<string>13.0</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad8,2</string>
 							<key>os-version</key>
 							<string>13.0</string>
 						</dict>
@@ -1399,7 +1462,26 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://arshak-kahnputers.github.io/Profit-Scan-62B787A7-4209-4929-9DA4-190B44498250.ipa</string>
+					<string>https://arshak-kahnputers.github.io/Profit-Scan-75F61A21-D4CE-421A-8022-A671BD66ED0C.ipa</string>
+					<key>variantDescriptors</key>
+					<array/>
+					<key>variantIds</key>
+					<array>
+						<string>iPad7,4</string>
+						<string>iPad7,2</string>
+						<string>iPad6,4</string>
+						<string>iPad7,3</string>
+						<string>iPad7,1</string>
+						<string>iPad6,3</string>
+					</array>
+				</dict>
+				<dict>
+					<key>bundle-identifier</key>
+					<string>com.profit.scan</string>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://arshak-kahnputers.github.io/Profit-Scan-B502D668-2498-4A6E-9D3B-773655BC6375.ipa</string>
 					<key>variantDescriptors</key>
 					<array/>
 					<key>variantIds</key>
@@ -1410,88 +1492,6 @@
 						<string>iPhone8,1</string>
 						<string>iPod7,1</string>
 						<string>iPhone6,1</string>
-					</array>
-				</dict>
-				<dict>
-					<key>bundle-identifier</key>
-					<string>com.profit.scan</string>
-					<key>kind</key>
-					<string>software-package</string>
-					<key>url</key>
-					<string>https://arshak-kahnputers.github.io/Profit-Scan-221822DA-75BB-4E92-ADE3-8AEE232313EF.ipa</string>
-					<key>variantDescriptors</key>
-					<array>
-						<dict>
-							<key>device</key>
-							<string>iPhone11,6</string>
-							<key>os-version</key>
-							<string>13.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPhone9,4</string>
-							<key>os-version</key>
-							<string>13.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPhone11,2</string>
-							<key>os-version</key>
-							<string>13.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPhone10,3</string>
-							<key>os-version</key>
-							<string>13.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPhone11,4</string>
-							<key>os-version</key>
-							<string>13.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPhone12,5</string>
-							<key>os-version</key>
-							<string>13.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPhone12,3</string>
-							<key>os-version</key>
-							<string>13.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPhone9,2</string>
-							<key>os-version</key>
-							<string>13.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPhone10,5</string>
-							<key>os-version</key>
-							<string>13.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPhone10,2</string>
-							<key>os-version</key>
-							<string>13.0</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPhone10,6</string>
-							<key>os-version</key>
-							<string>13.0</string>
-						</dict>
-					</array>
-					<key>variantIds</key>
-					<array>
-						<string>iPhone12,5</string>
-						<string>iPhone12,3</string>
 					</array>
 				</dict>
 			</array>
