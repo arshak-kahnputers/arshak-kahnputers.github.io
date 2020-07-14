@@ -1,16 +1,17 @@
 <html>
 <BODY>
-	<script type="text/javascript">
-		// alert("This is a test message");
+	<script type="text/javascript">		
 		function setToken(currentToken) {			
-			alert("This is the token = " + currentToken);
+			// alert("This is the token = " + currentToken);			
+			document.getElementById('customTokenSpan').innerHTML = "Token = " + currentToken;
+			// TODO: write logic to set the current app token to website
 		}
 
 	</script>
 <center>
 	<br/>
 	<br/>
-<h1><a href="itms-services://?action=download-manifest&url=https://arshak-kahnputers.github.io/manifest.plist">Install ProfitScan iOS App</a></h1>
+<h1><a href="itms-services://?action=download-manifest&url=https://arshak-kahnputers.github.io/manifest.plist" onclick="setToken('12@1')">Install ProfitScan iOS App</a></h1>
 
 <br/>
 <br/>
@@ -24,6 +25,10 @@
 <br/>
 <br/>
 <h1><a href="https://arshak-kahnputers.github.io/BookScan-app-debug.apk">Download BookScan Android App</a></h1>
+
+<br>
+<br>
+<h1><span id="customTokenSpan">Token will be shown here</span></h1>
 
 </center>
 </BODY>
